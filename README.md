@@ -12,8 +12,6 @@
   </a>
 </div>
 
----
-
 ### About me
 
 - 🔭 I’m currently working on [Consejo Federal de Energia Electrica](https://www.cfee.gob.ar/).
