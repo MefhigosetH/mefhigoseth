@@ -1,4 +1,4 @@
-### Hello world 👋 I'm Victor
+## Hello world 👋 I'm Victor
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vvillarreal1983/">
@@ -13,6 +13,8 @@
 </div>
 
 ---
+
+### About me
 
 - 🔭 I’m currently working on [Consejo Federal de Energia Electrica](https://www.cfee.gob.ar/).
 - 🌱 I’m currently learning Ethical Hacking.
